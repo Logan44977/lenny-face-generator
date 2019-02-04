@@ -1,0 +1,43 @@
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.dll
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.dll
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\res\layout\layout1.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\res\layout\main.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\res\values\strings.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\res\drawable\icon.png
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\R.cs.flag
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\uploadflags.txt
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Debug\com.application.LennyFace.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Debug\com.application.LennyFace-Signed.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\android\bin\com.application.LennyFace.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\res\drawable\lennyface.png
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.dll.mdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.dll
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.pdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\com.application.LennyFace.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\com.application.LennyFace-Signed.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.csprojResolveAssemblyReference.cache
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.dll
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\Le Lenny Face.pdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\android\bin\com.application.LennyFace.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\res\layout\layout1.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\res\layout\main.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\res\values\strings.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\res\drawable\icon.png
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\res\drawable\lennyface.png
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\R.cs.flag
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\uploadflags.txt
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\Le Lenny Face.dllLe Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\Mono.Android.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\mscorlib.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.Core.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.Xml.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Debug\android\assets\Le Lenny Face.dll.mdb

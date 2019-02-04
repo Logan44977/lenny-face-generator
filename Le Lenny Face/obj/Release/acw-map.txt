@@ -1,0 +1,8 @@
+Le_Lenny_Face.Activity1, Le Lenny Face;md5bc36db51b8397644bda61b74ad9b5fed.Activity1
+Le_Lenny_Face.Activity1, Le Lenny Face, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bc36db51b8397644bda61b74ad9b5fed.Activity1
+Le_Lenny_Face.Activity1;md5bc36db51b8397644bda61b74ad9b5fed.Activity1
+le_lenny_face.Activity1;md5bc36db51b8397644bda61b74ad9b5fed.Activity1
+Le_Lenny_Face.MainActivity, Le Lenny Face;md5bc36db51b8397644bda61b74ad9b5fed.MainActivity
+Le_Lenny_Face.MainActivity, Le Lenny Face, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bc36db51b8397644bda61b74ad9b5fed.MainActivity
+Le_Lenny_Face.MainActivity;md5bc36db51b8397644bda61b74ad9b5fed.MainActivity
+le_lenny_face.MainActivity;md5bc36db51b8397644bda61b74ad9b5fed.MainActivity

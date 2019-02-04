@@ -1,0 +1,46 @@
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.dll
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Release\com.Application.LennyFace.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Release\com.Application.LennyFace-Signed.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\Le Lenny Face.dll
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\Le Lenny Face.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\android\bin\com.Application.LennyFace.apk
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\res\layout\layout1.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\res\layout\main.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\res\values\strings.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\res\drawable\icon.png
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\res\drawable\lennyface.png
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\R.cs.flag
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\uploadflags.txt
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\obj\Release\Le Lenny Face.dll.mdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.dll
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.pdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\com.application.LennyFace.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\com.application.LennyFace-Signed.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\Le Lenny Face.dll
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\Le Lenny Face.pdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\bin\com.application.LennyFace.apk
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\res\layout\layout1.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\res\layout\main.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\res\values\strings.xml
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\res\drawable\icon.png
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\res\drawable\lennyface.png
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\R.cs.flag
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\uploadflags.txt
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\Le Lenny Face.dllLe Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\Mono.Android.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\mscorlib.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.Core.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.Xml.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\Le Lenny Face.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\System.dll.mdb
+C:\Users\logan\Desktop\Le Lenny Face\Le Lenny Face\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb

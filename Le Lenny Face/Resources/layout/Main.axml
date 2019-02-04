@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <Button
+            android:text="Generate Faces"
+            android:layout_width="200.5dp"
+            android:layout_height="55.0dp"
+            android:id="@+id/showGenerate"
+            android:layout_alignParentLeft="True" />
+        <Button
+            android:text="Premade Faces"
+            android:layout_width="205.5dp"
+            android:layout_height="55.5dp"
+            android:id="@+id/showPremade"
+            android:layout_alignParentRight="True" />
+    <!-- This is where the randomize buttons start-->
+        <Button
+            android:text="Random Ears"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/earsButton"
+            android:layout_below="@id/showGenerate"
+            android:layout_marginTop="30.5dp" />
+        <Button
+            android:text="Random Mouth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mouthButton"
+            android:layout_below="@id/earsButton"
+            android:layout_marginTop="30.5dp" />
+        <Button
+            android:text="Random Eyes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/eyesButton"
+            android:layout_below="@id/mouthButton"
+            android:layout_marginTop="30.5dp" />
+        <Button
+            android:text="Randomize Everything"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/randomButton"
+            android:layout_below="@id/eyesButton"
+            android:layout_marginTop="30.5dp" />
+        <TextView
+            android:text="( ͡° ͜ʖ ͡°)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/randomButton"
+            android:id="@+id/textView1"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginTop="50.5dp" />
+        <Button
+            android:text="Copy To Clipboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/showGenerate"
+            android:id="@+id/copyButton"
+            android:layout_marginTop="435.5dp" />
+    </RelativeLayout>
+</ScrollView>
