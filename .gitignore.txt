@@ -1,3 +1,0 @@
-LennyFaceGeneratorKeyStore
-.sln
-.suo
